@@ -1,0 +1,53 @@
+# Ignore specific directories
+Library/Application Support/CallHistoryTransactions/
+Library/Application Support/CloudDocs/session/db/
+Library/Application Support/com.apple.sharedfilelist/
+Library/Application Support/Knowledge/
+Library/Application Support/com.apple.TCC/
+Library/Application Support/FileProvider/
+Library/Application Support/com.apple.avfoundation/Frecents/
+Library/Application Support/CallHistoryDB/
+Library/Assistant/SiriVocabulary/
+Library/Autosave Information/
+Library/IdentityServices/
+Library/Messages/
+Library/HomeKit/
+Library/Sharing/
+Library/Mail/
+Library/DuetExpertCenter/
+Library/Accounts/
+Library/Safari/
+Library/Biome/
+Library/Shortcuts/
+Library/Suggestions/
+Library/Group Containers/group.com.apple.secure-control-center-preferences/
+Library/Group Containers/group.com.apple.notes/
+Library/Containers/com.apple.archiveutility/
+Library/Containers/com.apple.Safari/
+Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/
+Library/Containers/com.apple.mail/
+Library/Containers/com.apple.Notes/
+Library/Containers/com.apple.news/
+Library/Containers/com.apple.corerecents.recentsd/Data/Library/Recents/
+Library/Containers/com.apple.stocks/
+Library/PersonalizationPortrait/
+Library/Metadata/CoreSpotlight/
+Library/Metadata/com.apple.IntelligentSuggestions/
+Library/Cookies/
+Library/CoreFollowUp/
+Library/StatusKit/
+Library/Caches/com.apple.HomeKit/
+Library/Caches/CloudKit/
+Library/Caches/com.apple.Safari/
+Library/Caches/com.apple.findmy.imagecache/
+Library/Caches/com.apple.findmy.fmfcore/
+Library/Caches/FamilyCircle/
+Library/Caches/com.apple.homed/
+Library/Caches/com.apple.findmy.fmipcore/
+Library/Caches/com.apple.ap.adprivacyd/
+.Trash/
+
+# Ignore files with specific extensions
+*.txt
+*.docx
+*.xlsx
